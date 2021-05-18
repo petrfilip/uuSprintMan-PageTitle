@@ -1,6 +1,6 @@
 # uuSprintMan-PageTitle
 
-Simply add 
+Get value of H1 element and put it to the web page title. 
 
 ## Install as a User Script - Tampermonkey
 
