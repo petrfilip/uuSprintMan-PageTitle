@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         uuSprintMan page title
-// @namespace    https://github.com/petrfilip
+// @namespace    https://github.com/petrfilip/uuSprintMan-PageTitle
 // @version      0.1
 // @description  Improve page title of sprintman
 // @author       petr.filip@tix.cz
